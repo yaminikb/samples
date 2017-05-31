@@ -2,10 +2,10 @@
 <!--- Provide a general summary of the issue in the Title above -->
 
 ## Environment Details
-** GlassFish Version:
-** JDK version:
-** OS:
-** Database:
+* GlassFish Version:
+* JDK version:
+* OS:
+* Database:
 
 ----------
 
