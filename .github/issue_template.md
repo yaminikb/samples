@@ -20,5 +20,6 @@
 ## Impact of Issue
 <!--- How has this issue affected you? What are you trying to accomplish? -->
 
+## Is the issue intermittent or consistent?
 <!--- Please choose one each Type, Component, and Priority label -->
 
