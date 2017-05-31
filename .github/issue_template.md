@@ -21,5 +21,7 @@
 <!--- How has this issue affected you? What are you trying to accomplish? -->
 
 ## Is the issue intermittent or consistent?
+<!--- State if the problem is easily reproducible or happens intermittently -->
+
 <!--- Please choose one each Type, Component, and Priority label -->
 
