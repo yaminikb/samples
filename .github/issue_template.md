@@ -2,7 +2,7 @@
 <!--- Provide a general summary of the issue in the Title above -->
 
 ## Environment Details
-* GlassFish Version:
+* GlassFish Version (and build number):
 * JDK version:
 * OS:
 * Database:
