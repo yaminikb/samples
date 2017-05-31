@@ -10,12 +10,17 @@
 ----------
 
 ## Problem Description
-<!—Describe the bug in detail highlighting current behavior vs expected behavior —>
-<!— Include stack traces or command outputs —>
+<!—-- Describe the bug in detail highlighting current behavior vs expected behavior -—>
+<!—-- Include stack traces or command outputs -—>
 
 ## Steps to reproduce
-<!— Step by step instructions to reproduce the problem —>
-<!— Provide sample code/application if relevant  —>
+<!—-- Step by step instructions to reproduce the problem —->
+<!—-- Provide sample code/application if relevant  —->
 
-## Context
-<!- How has this issue affected you? What are you trying to accomplish? ->
+## Impact of Issue
+<!--- How has this issue affected you? What are you trying to accomplish? -->
+
+<!--— Please choose one each Type, Component, and Priority label -->
+<!—-- Type:  —->
+<!—-- Component: -—>
+<!—-- Priority: —->
