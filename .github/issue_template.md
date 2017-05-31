@@ -21,6 +21,4 @@
 <!--- How has this issue affected you? What are you trying to accomplish? -->
 
 <!--— Please choose one each Type, Component, and Priority label -->
-<!—-- Type:  —->
-<!—-- Component: -—>
-<!—-- Priority: —->
+
