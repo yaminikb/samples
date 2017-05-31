@@ -18,4 +18,4 @@
 <!— Provide sample code/application if relevant  —>
 
 ## Context
-<!--- How has this issue affected you? What are you trying to accomplish? -->
+<!- How has this issue affected you? What are you trying to accomplish? ->
